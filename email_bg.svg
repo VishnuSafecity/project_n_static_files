@@ -1,0 +1,24 @@
+<svg width="506" height="316" viewBox="0 0 506 316" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_608_699)">
+<rect width="505.6" height="316" fill="white"/>
+<g filter="url(#filter0_f_608_699)">
+<circle cx="338.581" cy="136.03" r="169.683" fill="#C0F0FF"/>
+<circle cx="37.393" cy="297.918" r="74.6111" fill="#C0F0FF"/>
+<circle cx="20.8906" cy="308.803" r="33.18" fill="#E7C0FF"/>
+<circle cx="387.426" cy="79.1667" r="169.683" fill="#308FFF"/>
+<circle cx="450.852" cy="48.5461" r="169.683" fill="#FEBDFF"/>
+<path opacity="0.6" d="M311.607 46.5412C316.71 0.24754 336.941 -11.9638 394.717 -8.13636C400.002 -5.40248 409.625 4.84044 405.834 23.9411C401.096 47.817 352.797 21.9363 352.797 33.2363C352.797 44.5364 363.915 76.2494 352.797 103.588C341.679 130.927 341.315 177.585 328.921 215.677C316.528 253.769 296.661 256.139 280.44 261.06C267.464 264.996 251.704 262.7 245.447 261.06C280.987 244.839 271.145 239.553 290.465 224.972C309.784 210.392 306.503 92.8349 311.607 46.5412Z" fill="#FA00FF" fill-opacity="0.63"/>
+<circle cx="552.552" cy="39.0695" r="169.683" fill="#FEDEFF"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_608_699" x="-107.44" y="-200.836" width="899.898" height="643.587" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="35.1111" result="effect1_foregroundBlur_608_699"/>
+</filter>
+<clipPath id="clip0_608_699">
+<rect width="505.6" height="316" fill="white"/>
+</clipPath>
+</defs>
+</svg>
